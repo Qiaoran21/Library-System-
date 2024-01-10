@@ -1,5 +1,5 @@
-/* Description: Challenge 1
- * Author: Qiaoran Xue
+/* Description: A set of Kotlin classes to represent a library system.
+ * Author: Qiaoran 
  * Date Created: 2024-01-10
  */
 
